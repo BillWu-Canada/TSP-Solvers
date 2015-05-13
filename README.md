@@ -24,10 +24,12 @@ The output shows the length of the optimal path and the order of cities through 
 for example: 
 -----------------------------------------
 THE OPTIMAL PATH LENGTH: 194.872
+
 Therefore, the path is: A C D B A
 
 
 PS:
 ---
-testfile0.txt use 4 cities \n
+testfile0.txt use 4 cities
+
 testfile1.txt use 8 cities
