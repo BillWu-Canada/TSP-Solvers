@@ -29,5 +29,5 @@ Therefore, the path is: A C D B A
 
 PS:
 ---
-testfile0.txt use 4 cities
+testfile0.txt use 4 cities \n
 testfile1.txt use 8 cities
