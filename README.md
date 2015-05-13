@@ -14,7 +14,6 @@ A 56 87
 B 30 56
 C 80 41
 D 15 24
----------------
 
 which represent 4 citys and their coordinates, every city connect to each other.
 
@@ -26,9 +25,9 @@ for example:
 -----------------------------------------
 THE OPTIMAL PATH LENGTH: 194.872
 Therefore, the path is: A C D B A
------------------------------------------
 
 
 PS:
+---
 testfile0.txt use 4 cities
 testfile1.txt use 8 cities
